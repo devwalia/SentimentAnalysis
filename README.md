@@ -13,7 +13,8 @@ o   text: It refers to the text of the tweet
  
 RESULTS-
 
-Data set
+Data set (representation)
+
 <img width="581" alt="image" src="https://user-images.githubusercontent.com/58397422/162613219-54472193-a5c7-4ae6-b9a0-f6ae172a8d05.png">
 
 <img width="465" alt="image" src="https://user-images.githubusercontent.com/58397422/162613226-755ef3ce-5d63-42e2-9eae-cb11cfccf581.png">
