@@ -1,7 +1,7 @@
 # SentimentAnalysis
 SENTIMENT ANALYSIS MODEL ON SOCIAL MEDIA (TWITTER DATA)
 
-n this project, we try to implement a Twitter sentiment analysis model that helps to overcome the challenges of identifying the sentiments of the tweets. The necessary details regarding the dataset are:
+In this project, we try to implement a Twitter sentiment analysis model that helps to overcome the challenges of identifying the sentiments of the tweets. The necessary details regarding the dataset are:
 ·      The dataset provided is the Sentiment140 Dataset which consists of 1,600,000 tweets that have been extracted using the Twitter API. The various columns present in the dataset are:
 o   target: the polarity of the tweet (positive or negative)
 o   ids: Unique id of the tweet
